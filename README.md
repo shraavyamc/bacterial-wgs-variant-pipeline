@@ -55,12 +55,12 @@ Output:
 ## Repository Structure
 
 
-docker/ # Dockerfile and container setup
-pipeline/ # Core Python workflow scripts
-reference/ # Reference genome files
-tests/ # Test utilities
-config.yaml # Configurable pipeline parameters
-run_slurm.sh # SLURM batch execution script
+- docker/ # Dockerfile and container setup
+- pipeline/ # Core Python workflow scripts
+- reference/ # Reference genome files
+- tests/ # Test utilities
+- config.yaml # Configurable pipeline parameters
+- run_slurm.sh # SLURM batch execution script
 
 
 ---

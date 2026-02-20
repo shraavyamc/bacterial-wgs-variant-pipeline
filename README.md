@@ -20,7 +20,7 @@ Test dataset:
 Illumina paired-end reads from SRR28000075 (Staphylococcus aureus WGS).
 
 Reference genome:
-Staphylococcus aureus complete genome (RefSeq assembly such as N315 or USA300).
+Staphylococcus aureus complete genome {RefSeq assembly - ASM1342v1 (NCTC 8325 strain)}.
 
 ---
 

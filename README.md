@@ -18,10 +18,10 @@ A reproducible whole-genome sequencing variant calling pipeline built using:
 
 ## Reproducibility
 
-Fully containerised with Docker
-Configurable via config.yaml
-SLURM-ready for HPC environments
-Modular Python pipeline structure
+- Fully containerised with Docker
+- Configurable via config.yaml
+- SLURM-ready for HPC environments
+- Modular Python pipeline structure
 
 ## How to Run (Docker)
 

@@ -1,0 +1,18 @@
+# Results
+results/
+
+# Alignment files
+*.sam
+*.bam
+*.bai
+
+# Variant files
+*.vcf
+
+# Python
+__pycache__/
+*.pyc
+
+# Large data
+*.fastq
+*.fq

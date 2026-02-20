@@ -16,6 +16,13 @@ A reproducible whole-genome sequencing variant calling pipeline built using:
 4. Variant calling using bcftools
 5. Variant statistics generation
 
+## Reproducibility
+
+Fully containerised with Docker
+Configurable via config.yaml
+SLURM-ready for HPC environments
+Modular Python pipeline structure
+
 ## How to Run (Docker)
 
 docker build -t bacterial-pipeline -f docker/Dockerfile .
